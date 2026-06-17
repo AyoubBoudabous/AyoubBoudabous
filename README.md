@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Ayoub 👋
 
-<!--
-**AyoubBoudabous/AyoubBoudabous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student at ISET Charguia
 
-Here are some ideas to get you started:
+Aspiring Software Engineer passionate about building real-world solutions through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+-  Currently studying for a Bachelor's Degree in Information Technology
+-  Former Intern at Tunisair and CTI Network
+-  Developed a web application during my internship at Tunisair
+-  Worked with networking infrastructure, switches, fiber optics, IP telephony, and surveillance systems at CTI
+-  Interested in Software Engineering and Web/App Development
+
+## Technologies
+
+- Python
+- PHP
+- JavaScript
+- SQL
+- C
+- HTML
+- CSS
+
+## Goals
+
+To become a software engineer and contribute to impactful projects while continuously learning and improving.
